@@ -1,0 +1,9 @@
+{
+  "Joe": {
+    "description": null,
+    "date_of_birth": null,
+    "hour_rate": 150,
+    "productivity": 1000,
+    "annual_interest": 0
+  }
+}

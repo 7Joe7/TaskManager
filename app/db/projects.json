@@ -1,0 +1,20 @@
+{
+  "TaskManager": {
+    "description": "Application that tells u what is your next step towards the right wall",
+    "area": 7,
+    "done": null,
+    "state": null,
+    "vision": null,
+    "date_of_accomplishment": null,
+    "ev": 0
+  },
+  "JOTC": {
+    "description": "Firma poskytující software",
+    "area": 4,
+    "done": null,
+    "state": null,
+    "vision": null,
+    "date_of_accomplishment": null,
+    "ev": 0
+  }
+}
